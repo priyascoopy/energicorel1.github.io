@@ -2,7 +2,7 @@
 ------------------------------------
   Arcade - Architecture
   Version: 1.0
- ------------------------------------ 
+ ------------------------------------
  ====================================*/
 
 
@@ -614,8 +614,8 @@ ol {
 }
 
 .slide-num-holder {
-	width: 153px;
-	height: 250px;
+	width: 150px;
+	height: 200px;
 	position: absolute;
 	right: 60px;
 	background: rgba(18, 18, 18, 0.95);
